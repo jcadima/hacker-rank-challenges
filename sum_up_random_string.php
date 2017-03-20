@@ -31,7 +31,9 @@ echo sum_from_string(  $str) ;
 
 
 
+echo 2 ^ 4 ;
 
+echo "FOOD" * 20 ;
 
 
 
